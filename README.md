@@ -9,7 +9,7 @@ Conjunto de 10 funções em C projetadas para testar lógica de programação e 
 - **Precedência de Operadores:** Ordem de execução de cálculos dentro de atribuições.
 
 ### 🛠️ Como usar
-O código já inclui uma função `main` que executa todas as funções com uma entrada de teste (matrícula). Basta compilar com qualquer compilador C (GCC, Clang, etc):
+O código já inclui uma função `main` que executa todas as funções com uma entrada de teste. Basta compilar com qualquer compilador C (GCC, Clang, etc):
 
 ```bash
 gcc main.c -o desafios
